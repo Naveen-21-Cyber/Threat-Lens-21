@@ -1,0 +1,9 @@
+Phishing Simulation Results
+Score: 100.00%
+
+Feedback:
+Email: 'Unusual Login Attempt Detected' - Correct (Phishing: True)
+Email: 'Invoice Attached' - Correct (Phishing: False)
+Email: 'You've won a prize!' - Correct (Phishing: True)
+Email: 'Meeting Reminder' - Correct (Phishing: False)
+Email: 'Your bank account is locked!' - Correct (Phishing: True)
